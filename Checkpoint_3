@@ -12,6 +12,8 @@ group by "total_checkouts"
 order by total_checkouts DESC
 ```
 
+![-README.md](CP3/Q1.png)
+
 Question 2:
 How many library had 100 Total checkouts in Feb,2015?
 ```sql
