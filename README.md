@@ -104,4 +104,3 @@ WHERE total_renewals < 10
 And circulation_active_month = 'July'
 And circulation_active_year = '2014'
 ```
-
